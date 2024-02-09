@@ -1,0 +1,60 @@
+body {
+  background-color: lightcyan;
+}
+
+.Container {
+  max-width: 80%;
+  margin: auto;
+  font-family: fantasy;
+  background-color: lightpink;
+}
+.part1 {
+  background-color: lightcoral;
+  padding: 15px;
+  margin: 3%;
+}
+.part2 {
+  margin: 3%;
+  background-color: palevioletred;
+  padding: 15px;
+}
+.part3 {
+  margin: 3%;
+  background-color: darkkhaki;
+  padding: 15px;
+}
+.part4 {
+  margin: 3%;
+  background-color: indianred;
+  padding: 15px;
+}
+.part5 {
+  margin: 3%;
+  background-color: moccasin;
+  padding: 15px;
+}
+.part6 {
+  margin: 3%;
+  background-color: thistle;
+  padding: 15px;
+}
+.part7 {
+  margin: 3%;
+  background-color: salmon;
+  padding: 15px;
+}
+.part8 {
+  margin: 3%;
+  background-color: darkcyan;
+  padding: 15px;
+}
+.pictures {
+  padding: 10px;
+  background-color: rosybrown;
+}
+.expand {
+  transition: transform 0.2s ease;
+}
+.expand:hover {
+  transform: scale(1.7);
+}
